@@ -20,7 +20,7 @@ You can find a more systematical and formal definition in [*The Art, Science, an
 - **LibAFL Targets** contains the code that lives within the target program, like the runtime library for coverage tracking.
 - **LibAFL CC** provides the functionalities to write compiler wrappers for LibAFL, by providing a set of compiler extensions useful for instrumentation to users.
 
-![2022-libafl-fig1.png](https://github.com/harvey-lau/read-paper/2-spt/figures/2022-libafl-fig1.png)
+![2022-libafl-fig1.png](https://github.com/harvey-lau/read-paper/blob/main/2-spt/figures/2022-libafl-fig1.png)
 
 - The **State** is where all the non-volatile data resides.
 - The **Fuzzer** is a recipient for the operations that define what the fuzzer can do.
