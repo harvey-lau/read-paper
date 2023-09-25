@@ -8,4 +8,6 @@ To read, or not to read, that is the question.
 
 ## 0x02 Extensive Reading
 
+- [2022-AI/ML for Network Security: The Emperor has no Clothes](https://github.com/harvey-lau/read-paper/blob/main/1-src/extensive-reading/2022-ai4ns.md)
+
 ## 0x03 Misc
