@@ -23,5 +23,6 @@ To read, or not to read, that is the question.
 
 - 2023-09-06: finished *The Intensive Reading of 2022-LibAFL: A Framework to Build Modular and Reusable Fuzzers*.
 - 2023-09-25: finished *The Extensive Reading of 2022-LibAFL: A Framework to Build Modular and Reusable Fuzzers*.
+- 2023-10-04: finished *The Extensive Reading of 2022-DriveFuzz: Discovering Autonomous Driving Bugs through Driving Quality-Guided Fuzzing*.
 
 ## 0x03 From Zero to Zero
