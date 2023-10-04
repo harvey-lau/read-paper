@@ -10,5 +10,6 @@ To read, or not to read, that is the question.
 
 - [2022-AI/ML for Network Security: The Emperor has no Clothes](https://github.com/harvey-lau/read-paper/blob/main/1-src/extensive-reading/2022-ai4ns.md)
 - [2022-DriveFuzz: Discovering Autonomous Driving Bugs through Driving Quality-Guided Fuzzing](https://github.com/harvey-lau/read-paper/blob/main/1-src/extensive-reading/2022-drivefuzz.md)
+- [2022-MC^2: Rigorous and Efficient Directed Greybox Fuzzing](https://github.com/harvey-lau/read-paper/blob/main/1-src/extensive-reading/2022-mc2.md)
 
 ## 0x03 Misc
