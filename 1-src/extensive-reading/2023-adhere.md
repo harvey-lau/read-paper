@@ -24,4 +24,4 @@ The workflow of AdHere includes 3 steps (refer to Figure 8 for more details):
 
 > The [Document Object Model](https://en.wikipedia.org/wiki/Document_Object_Model) (DOM) is a cross-platform and language-independent interface that treats an HTML or XML document as a tree structure wherein each node is an object representing a part of the document.
 
-The advantages of AdHere is shown in Figure 1.
+The advantages of AdHere are shown in Figure 1.
