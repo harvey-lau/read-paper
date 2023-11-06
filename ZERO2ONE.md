@@ -33,5 +33,6 @@ To read, or not to read, that is the question.
 - 2023-10-04: finished *The Extensive Reading of 2022-MC^2: Rigorous and Efficient Directed Greybox Fuzzing*.
 - 2023-11-03: finished *The Extensive Reading of 2023-AdHere: Automated Detection and Repair of Intrusive Ads*.
 - 2023-11-03: finished *The Extensive Reading of 2023-AI-based Question Answering Assistance for Analyzing Natural-language Requirements*.
+- 2023-11-06: finished *The Extensive Reading of 2023-CodaMosa: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models*.
 
 ## 0x03 From Zero to Zero
