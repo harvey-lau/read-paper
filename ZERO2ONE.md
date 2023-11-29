@@ -51,5 +51,6 @@ To read, or not to read, that is the question.
 - 2023-11-19: finished *The Extensive Reading of 2023-A Qualitative Study on the Implementation Design Decisions of Developers*.
 - 2023-11-20: finished *The Extensive Reading of 2023-Concrat: An Automatic C-to-Rust Lock API Translator for Concurrent Programs*.
 - 2023-11-29: finished *The Extensive Reading of 2023-Multiple Targets Directed Greybox Fuzzing*.
+- 2023-11-29: finished *The Extensive Reading of 2023-SelectFuzz: Efficient Directed Fuzzing with Selective Path Exploration*.
 
 ## 0x03 From Zero to Zero

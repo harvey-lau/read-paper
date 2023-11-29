@@ -18,5 +18,6 @@ To read, or not to read, that is the question.
 - [2023-Multiple Targets Directed Greybox Fuzzing](https://github.com/harvey-lau/read-paper/blob/main/1-src/extensive-reading/2023-leofuzz.md)
 - [2023-AI-based Question Answering Assistance for Analyzing Natural-language Requirements](https://github.com/harvey-lau/read-paper/blob/main/1-src/extensive-reading/2023-qassist.md)
 - [2023-A Qualitative Study on the Implementation Design Decisions of Developers](https://github.com/harvey-lau/read-paper/blob/main/1-src/extensive-reading/2023-qsaddd.md)
+- [2023-SelectFuzz: Efficient Directed Fuzzing with Selective Path Exploration](https://github.com/harvey-lau/read-paper/blob/main/1-src/extensive-reading/2023-selectfuzz.md)
 
 ## 0x03 Misc
