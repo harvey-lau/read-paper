@@ -53,5 +53,6 @@ To read, or not to read, that is the question.
 - 2023-11-29: finished *The Extensive Reading of 2023-Multiple Targets Directed Greybox Fuzzing*.
 - 2023-11-29: finished *The Extensive Reading of 2023-SelectFuzz: Efficient Directed Fuzzing with Selective Path Exploration*.
 - 2023-11-29: finished *The Extensive Reading of 2024-Titan: Efficient Multi-target Directed Greybox Fuzzing*.
+- 2023-11-29: finished *The Intensive Reading of 2024-Titan: Efficient Multi-target Directed Greybox Fuzzing*.
 
 ## 0x03 From Zero to Zero
