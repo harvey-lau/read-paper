@@ -15,6 +15,7 @@ To read, or not to read, that is the question.
 - [2023-APICad: Augmenting API Misuse Detection through Specifications from Code and Documents](https://github.com/harvey-lau/read-paper/blob/main/1-src/extensive-reading/2023-apicad.md)
 - [2023-CodaMosa: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models](https://github.com/harvey-lau/read-paper/blob/main/1-src/extensive-reading/2023-codemosa.md)
 - [2023-Concrat: An Automatic C-to-Rust Lock API Translator for Concurrent Programs](https://github.com/harvey-lau/read-paper/blob/main/1-src/extensive-reading/2023-concrat.md)
+- [2023-Multiple Targets Directed Greybox Fuzzing](https://github.com/harvey-lau/read-paper/blob/main/1-src/extensive-reading/2023-leofuzz.md)
 - [2023-AI-based Question Answering Assistance for Analyzing Natural-language Requirements](https://github.com/harvey-lau/read-paper/blob/main/1-src/extensive-reading/2023-qassist.md)
 - [2023-A Qualitative Study on the Implementation Design Decisions of Developers](https://github.com/harvey-lau/read-paper/blob/main/1-src/extensive-reading/2023-qsaddd.md)
 

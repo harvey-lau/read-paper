@@ -1,0 +1,9 @@
+# The Extensive Reading of 2023-[*Multiple Targets Directed Greybox Fuzzing*](https://ieeexplore.ieee.org/abstract/document/10061233)
+
+- The **problem** is that due to the static stage division and coarse-grained energy scheduling of Directed Grey-box Fuzzing (DGF), prior DGF tools perform poorly when facing multiple target locations.
+- The **solution** is LeoFuzz, a novel strategy to adaptively coordinate exploration and exploitation stages, and a novel energy scheduling strategy by considering more relations between seeds and target locations.
+
+The architecture of LeoFuzz is shown in Figure 2, which includes 2 phases.
+
+1. In the **static analysis** phase: the graph extractor extracts iCFG from the program under test (PUT). Then the **target sequence generator** maps the statements in targets to basic blocks of the graphs and generates for each target a target sequence, which contains necessary basic blocks along the paths to the target. Finally, the PUT is instrumented for collecting runtime information, such as code coverage and execution traces, and the instrumented binary is sent to the executor.
+2. In the **dynamic analysis** phase: the fuzzer takes the initial seeds and the instrumented binary as inputs. First, the **stage coordinator** judges the stage of fuzzer (exploration stage or exploitation stage). According to the stage, the **seed selector** then obtains a seed from the corresponding seeds queue, coverage seeds queue (CQ) or directed seeds queue (DQ). After the mutator mutates the seed, the generated input is fed to the executor. The input is stored into the crash queue if it crashes the PUT, or into DQ if it increases the target sequence coverage, or into CQ if it increases code coverage, otherwise discarded. The fuzzer communicates with the concolic executor by sharing 2 seed queues.
