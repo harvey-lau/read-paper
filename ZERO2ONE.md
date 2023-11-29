@@ -10,6 +10,13 @@ To read, or not to read, that is the question.
 
 > The time of To Do means deadline.
 
+#### 2023-11-29
+
+- 2023-12-04: finish *The Extensive Reading of 2023-Multiple Targets Directed Greybox Fuzzing*.
+- 2023-12-04: finish *The Extensive Reading of 2023-SelectFuzz: Efficient Directed Fuzzing with Selective Path Exploration*.
+- 2023-12-04: finish *The Extensive Reading of 2024-Titan: Efficient Multi-target Directed Greybox Fuzzing*.
+- 2023-12-04: finish *The Intensive Reading of 2024-Titan: Efficient Multi-target Directed Greybox Fuzzing*.
+
 #### 2023-11-18
 
 - 2023-11-20: finish *The Extensive Reading of 2023-APICad: Augmenting API Misuse Detection through Specifications from Code and Documents*.
